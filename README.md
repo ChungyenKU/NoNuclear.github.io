@@ -37,7 +37,7 @@
   <p class="blue-text text-center" span style="font-size:30px">
     My Personal Page
   </p>
-  <p class="blue-text text-center" span style="font-size:25px">
+  <p class="blue-text" span style="font-size:25px">
     顧中彥
   </p>
   <p class="blue-text fan" span style="font-size:22px">
