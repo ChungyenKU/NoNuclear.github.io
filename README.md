@@ -5,11 +5,7 @@
             height: 100%;
         }
     body{
-　    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmERK37DKlTMKftB_-sy7fBjnpns6ymT9moicn6psdR-Oufk_fg");
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-position: center;
-      background-size: cover;
+　    
       color:#000000;
       text-align:left;
     }
@@ -61,7 +57,7 @@ background-size:150% 100%;
     
   </p>
   
-  <body>
+  <body background:"http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
