@@ -5,7 +5,7 @@
             height: 100%;
         }
     body{
-　    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmERK37DKlTMKftB_-sy7fBjnpns6ymT9moicn6psdR-Oufk_fg);
+　    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmERK37DKlTMKftB_-sy7fBjnpns6ymT9moicn6psdR-Oufk_fg");
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-position: center;
