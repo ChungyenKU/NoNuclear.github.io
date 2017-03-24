@@ -108,7 +108,7 @@
 
   <ul>
 
-    <li>name: Wei-Ting Chang</li>
+    <li>name: 顧中彥</li>
 
     <li>e-mail adress: b22379222@gmail.com</li>
 
