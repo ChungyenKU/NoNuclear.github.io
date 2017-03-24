@@ -9,12 +9,7 @@
       color:#000000;
       text-align:left;
     }
-    .background-image{
--moz-background-size:150% 100%;
--webkit-background-size:150% 100%;
--o-background-size:150% 100%;
-background-size:150% 100%;
-  }
+    
     .fan{
       font-family:fantasy;
     }
@@ -57,7 +52,7 @@ background-size:150% 100%;
     
   </p>
   
-  <body background:"http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
+  <body background="http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
