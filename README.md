@@ -1,70 +1,133 @@
 
+<!DOCTYPE html>
 <html>
-<style>
-    body{
-      background-color:green;
-      color:#fff;
-    }
-    .fan{
-      font-family:fantasy;
-    }
-    .ch{
-      font-family:Microsoft JhengHei;
-    }
-    .text-center{
-      text-align:center;
-    }
-    .text-right{
-      text-align:right;
-    }
-    .yellow-text {
-      color: yellow;
-    }
-    .blue-text {
-      color: blue;
-    }
-    .red-text {
-      color: red;
-    }
-    .title{
-      font-size=20px;
-      color: red;
-    }
-  </style>
 
-  <title>
-  My webpage.
-  </title>
-  <p class="yellow-text" span style="font-size:30px">
-    My Personal Page
-  </p>
-  <p class="yellow-text text-right" span style="font-size:25px">
-    顧中彥
-  </p>
-  <p class="blue-text fan" span style="font-size:17px">
-    <span style="font-family:fantasy;">
-    Welcome to my Github page.<br><br>
-    Click here to see my <a href="https://www.linkedin.com/in/%E6%89%BF%E5%BA%AD-%E5%91%82-345b75139/">Linkin</a>.<br><br>
-    Click here to see my <a href="https://github.com/woff52427">Github</a>.<br><br>
-    </span>
+<style>
+
+  .blue-text {
+
+    color: blue;
+
+  }
+
+  h2{
+
+    font-family: Lobster, Monospace;
+
+  }
+
+  p {
+
+    font-size: 22px;
+
+    font-family: Lucida Calligraphy;
+
+    color:black;
+
+  }
+  li {
+
+    font-size: 20px;
+
+    font-family:Segoe Print;
+
+    color:brown;
+  }
+   .marquee{
+    font-size: 50px;
+
+    font-family:Cooper Black;
+
+    background-color:lightgreen; 
+  }
+
+  .thick-yellow-border {
+
+    border-color: yellow;
+
+    border-width: 20px;
+
+    border-style: groove;
+
+    border-radius: 50%;
+
+  }
+
+  .smaller-image {
+
+    width: 200px;
+
+  }
+
+  .pink-background{
+  background-color: pink;
+  }
+  }
+  }
+
+</style>
+
+<marquee class="marquee">I  major  in  MIIA  at  FuJen  University ~ ~ </marquee>
+
+<h2 class="blue-text"> Welcome  to  my  GitHub  Page ,  Here's  my  Curriculum  Vitae</h2>
+
+<body class="pink-background">
+
+ <p>Click here to see<a href="https://www.facebook.com/profile.php?id=100003938222506"> Weiting's Facebook</a>.</p>
+ <p>Click here to know what is<a href="http://www.miia.fju.edu.tw/layout/oneorange/vvindex.jsp"> MIIA</a>.</p>
+
+<a href="#"><img class="smaller-image thick-yellow-border" src="https://scontent.xx.fbcdn.net/v/t1.0-1/p320x320/17190412_802868643187736_5361758430967929897_n.jpg?oh=d85664258db415cbd564d2160fa72b68&oe=59684CB5"></a>
+  
+
+<div>
+
+ <p>Personal interests:</p>
+
+  <ul>
+
+    <li>playing piano</li>
+
+    <li>reading extracurricular reading material</li>
+
+    <li>hung out with friends</li>
+
+  </ul>
+
+  <p>Work experience:</p>
+
+  <ul>
+
+    <li>part-time job: Macdonald</li>
+
+    <li>part-time job: sell clothes</li>
+
+
+  </ul>
+
+  <p>Personal data:</p>
+
+  <ul>
+
+    <li>name: Wei-Ting Chang</li>
+
+    <li>e-mail adress: b22379222@gmail.com</li>
+
+  </ul>
+
+   <p>Education:</p>
+
+  <ul>
+
+    <li>Graduated from LongFu Elementary School in 2010</li>
+
+    <li>Graduated from ChongPing Junior High School in 2013</li>
     
-  </p>
-   
-  <body>
-    <p class="title" span style="font-size:20px"><l>興趣</l></p>
-    <ul class ="ch" span style="font-size:20px">
-      <li>新北市大豐國小(2002~2008)</li>
-      <li>台北市東山高中國中部(2008~2011)</li>
-      <li>台北市東山高中(2011~2014)</li>
-      <li>新北市輔仁大學資訊工程學系(2014~至今)</li>
-   </ul>
-   <p class="title" span style="font-size:20px"><l>專長</l></p>
-   <ul class ="ch" span style="font-size:20px">      
-      <li>珠心算</li>
-      <li>彈鋼琴</li>
-      <li>看棒球</li>
-   </ul>
-  </body>
-  
-  
+    <li>Graduated from DanFeng Senior High School in 2016</li>
+
+  </ul>
+
+</div>
+
+</body>
+
 </html>
