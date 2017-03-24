@@ -1,9 +1,15 @@
 
 <html>
 <style>
+    html {
+            height: 100%;
+        }
     body{
-    background-image:url( 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfz_sh70wq7hM3_nkeCSNTISeylu2vbInOdZUQ4EEsq9TatcTDkQ' );
-　   background-repeat:no-repeat;
+　    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfz_sh70wq7hM3_nkeCSNTISeylu2vbInOdZUQ4EEsq9TatcTDkQ);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
       color:#000000;
       text-align:left;
     }
