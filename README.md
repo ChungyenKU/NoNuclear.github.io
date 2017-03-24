@@ -2,7 +2,7 @@
 <html>
 <style>
     body{
-      background-color:gray;
+      background-color:black;
       color:#fff;
     }
     .fan{
