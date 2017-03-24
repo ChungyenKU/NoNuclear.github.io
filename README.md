@@ -47,7 +47,7 @@
     
   </p>
   
-  <body background="http://3.share.photo.xuite.net/eni150/136af3b/14648841/775898930_m.jpg">
+  <body background="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfz_sh70wq7hM3_nkeCSNTISeylu2vbInOdZUQ4EEsq9TatcTDkQ">
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
