@@ -2,9 +2,17 @@
 <html>
 <style>
     body{
+    background-image:url( 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfz_sh70wq7hM3_nkeCSNTISeylu2vbInOdZUQ4EEsq9TatcTDkQ' );
+　   background-repeat:no-repeat;
       color:#000000;
       text-align:left;
     }
+    .background-image{
+-moz-background-size:150% 100%;
+-webkit-background-size:150% 100%;
+-o-background-size:150% 100%;
+background-size:150% 100%;
+  }
     .fan{
       font-family:fantasy;
     }
@@ -47,7 +55,7 @@
     
   </p>
   
-  <body background="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfz_sh70wq7hM3_nkeCSNTISeylu2vbInOdZUQ4EEsq9TatcTDkQ">
+  <body>
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
