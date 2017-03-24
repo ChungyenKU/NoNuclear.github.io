@@ -32,7 +32,7 @@
       color: red;
     }
   </style>
-@import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
+import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
   <title>
   My webpage.
   </title>
