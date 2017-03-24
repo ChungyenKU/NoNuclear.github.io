@@ -51,14 +51,14 @@
   </p>
   
   <body>
-    <p class="title" span style="font-size:20px"><l>學歷</l></p>
+    <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>新北市大豐國小(2002~2008)</li>
       <li>台北市東山高中國中部(2008~2011)</li>
       <li>台北市東山高中(2011~2014)</li>
       <li>新北市輔仁大學資訊工程學系(2014~至今)</li>
    </ul>
-   <p class="title" span style="font-size:20px"><l>興趣專長</l></p>
+   <p class="title" span style="font-size:20px"><l>專長</l></p>
    <ul class ="ch" span style="font-size:20px">      
       <li>珠心算</li>
       <li>彈鋼琴</li>
