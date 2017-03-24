@@ -2,7 +2,7 @@
 <html>
 <style>
     body{
-      background-image:url( ' https://scontent-tpe1-1.xx.fbcdn.net/v/t35.0-12/17356922_1394306507307843_1368828669_o.png?oh=246cfc8b8dd20b434a804556c7f152c1&oe=58D83CFC ' );
+      background-image:url("https://scontent-tpe1-1.xx.fbcdn.net/v/t35.0-12/17356922_1394306507307843_1368828669_o.png?oh=246cfc8b8dd20b434a804556c7f152c1&oe=58D83CFC");
       background-repeat:no-repeat;
 　    background-color:#00FFFF;
       color:#000000;
