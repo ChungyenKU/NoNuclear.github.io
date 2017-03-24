@@ -2,9 +2,8 @@
 <html>
 <style>
     body{
-      background-color:green;
+      background-color:gray;
       color:#fff;
-      text-align:left;
     }
     .fan{
       font-family:fantasy;
@@ -32,7 +31,7 @@
       color: red;
     }
   </style>
-import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
   <title>
   My webpage.
   </title>
@@ -40,8 +39,8 @@ import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
     My Personal Page
   </p>
   <p class="yellow-text text-right" span style="font-size:25px">
-    呂承庭
-  </p>
+    顧中彥
+  </p>
   <p class="blue-text fan" span style="font-size:17px">
     <span style="font-family:fantasy;">
     Welcome to my Github page.<br><br>
