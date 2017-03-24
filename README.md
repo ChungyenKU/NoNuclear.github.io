@@ -3,6 +3,8 @@
 <style>
     body{
       background-image:url( 'http://photo.loveyd.com/uploads/allimg/080726/1022153.jpg' );
+      background-repeat:no-repeat;
+　    background-color:#00FFFF;
       color:#000000;
       text-align:left;
     }
