@@ -1,9 +1,7 @@
 
 <html>
 <style>
-    html {
-            height: 100%;
-        }
+
     body{
 　    
       color:#000000;
