@@ -6,7 +6,7 @@
       color:#000000;
       text-align:left;
     }
-    #banner h1 p:hover{
+    #banner h1 a:hover{
 color: #fc3a63;
 position: relative; 
 top: 1px;
@@ -53,9 +53,9 @@ left: 1px;
   <p class="blue-text text-center text-center" span style="font-size:30px">
     My Personal Page
   </p>
-  <p class="blue-text text-center" span style="font-size:25px">    
+  <h1 class="blue-text text-center" span style="font-size:25px">    
     <a href="https://github.com/NoNuclear">顧中彥</a>
-  </p>
+  </h1>
   <a href="#"><img class="smaller-image thick-green-border text-center text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
   <p class="blue-text fan" span style="font-size:22px">
