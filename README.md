@@ -30,16 +30,27 @@
       font-size=20px;
       color: red;
     }
+  .smaller-image {
+    width: 100px;
+  }
+  .thick-green-border {
+    border-color: #C10066;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
   </style>
   <title>
   My webpage.
   </title>
-  <p class="blue-text text-center" span style="font-size:30px">
+  <p class="blue-text text-center text-center" span style="font-size:30px">
     My Personal Page
   </p>
   <p class="blue-text" span style="font-size:25px">
     顧中彥
   </p>
+  <a href="#"><img class="smaller-image thick-green-border" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
+
   <p class="blue-text fan" span style="font-size:22px">
     <span style="font-family:fantasy;">
     Welcome.
