@@ -50,7 +50,7 @@ left: 1px;
   <title>
   My webpage.
   </title>
-  <p class="blue-text text-center text-center" span style="font-size:30px">
+  <p class="blue-text text-center" span style="font-size:30px">
     My Personal Page
   </p>
   <h1 class="blue-text text-center" span style="font-size:25px">    
@@ -73,6 +73,7 @@ left: 1px;
    </ul>
    <p class="title" span style="font-size:20px"><l>專長</l></p>
    <ul class ="ch" span style="font-size:20px">      
+      <li>睡覺</li>
       <li>除了打程式</li>
    </ul>
   </body>
