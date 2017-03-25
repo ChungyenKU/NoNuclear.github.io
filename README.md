@@ -69,4 +69,11 @@
       <li>除了打程式</li>
    </ul>
   </body>
+  <div style="position:relative;width:267px;height:25px;overflow:hidden;">
+  <div style="position:absolute;top:-276px;left:-5px">
+    <iframe width="300" height="300" 
+      src="https://www.youtube.com/embed/youtubeID?rel=kTQPCaUC8SQ">
+    </iframe
+  </div>
+</div>
 </html>
