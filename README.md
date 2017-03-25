@@ -49,7 +49,7 @@
   <p class="blue-text" span style="font-size:25px">
     顧中彥
   </p>
-  <a href="#"><img class="smaller-image thick-green-border" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
+  <a href="#"><img class="smaller-image thick-green-border text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
   <p class="blue-text fan" span style="font-size:22px">
     <span style="font-family:fantasy;">
