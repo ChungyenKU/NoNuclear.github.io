@@ -53,8 +53,8 @@ left: 1px;
   <p class="blue-text text-center text-center" span style="font-size:30px">
     My Personal Page
   </p>
-  <p class="blue-text text-center" span style="font-size:25px">
-    顧中彥
+  <p class="blue-text text-center" span style="font-size:25px">    
+    <a href="https://github.com/NoNuclear">顧中彥</a>
   </p>
   <a href="#"><img class="smaller-image thick-green-border text-center text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
@@ -79,7 +79,7 @@ left: 1px;
   <p class="blue-text fan" span style="font-size:17px">
     <span style="font-family:fantasy;">
    <a href="https://www.linkedin.com/in/%E6%89%BF%E5%BA%AD-%E5%91%82-345b75139/">my Linkin</a>.<br><br>
-   <a href="https://github.com/woff52427">my Github</a>
+   <a href="https://github.com/NoNuclear">my Github</a>
     </span>
   </p>
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
