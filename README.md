@@ -1,5 +1,12 @@
 
 <html>
+<div data-video="VIDEO_ID"  
+         data-autoplay="0"         
+         data-loop="1"             
+         id="youtube-audio">
+  </div>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 <style>
     body{
       color:#000000;
@@ -72,7 +79,7 @@
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
-      src="https://www.youtube.com/embed/youtubeID?rel=0EXwZ_xr3Pfk">
+      src="https://www.youtube.com/embed/youtubeID?rel=EXwZ_xr3Pfk">
     </iframe>
   </div>
 </div>
