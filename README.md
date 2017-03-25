@@ -46,10 +46,10 @@
   <p class="blue-text text-center text-center" span style="font-size:30px">
     My Personal Page
   </p>
-  <p class="blue-text" span style="font-size:25px">
+  <p class="blue-text text-center" span style="font-size:25px">
     顧中彥
   </p>
-  <a href="#"><img class="smaller-image thick-green-border text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
+  <a href="#"><img class="smaller-image thick-green-border text-center text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
   <p class="blue-text fan" span style="font-size:22px">
     <span style="font-family:fantasy;">
@@ -76,7 +76,7 @@
     </iframe>
   </div>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTQPCaUC8SQ" autostart="true"  frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=kTQPCaUC8SQ" autostart="true"  frameborder="0" allowfullscreen></iframe>
 
 </html>
-<embed src="https://www.youtube.com/embed/EXwZ_xr3Pfk" autostart="true" hidden="true" loop="1" volume="100" width="230" height=45></embed>
+
