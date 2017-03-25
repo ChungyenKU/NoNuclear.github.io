@@ -86,4 +86,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXwZ_xr3Pfk" autostart="true"  frameborder="0" allowfullscreen></iframe>
 
 </html>
-<embed allowscriptaccess="never"  src="https://www.youtube.com/v/EXwZ_xr3Pfk&rel=1&autoplay=1" type="application/x-shockwave-flash" width="180" height="180"></embed>
+<embed allowscriptaccess="never"  src="https://www.youtube.com/embed/EXwZ_xr3Pfk&rel=1&autoplay=1" type="application/x-shockwave-flash" width="180" height="180"></embed>
