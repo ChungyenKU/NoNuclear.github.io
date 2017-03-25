@@ -79,11 +79,11 @@
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
-      src="https://www.youtube.com/embed/EXwZ_xr3Pfk?rel=0">
+      src="https://www.youtube.com/embed/EXwZ_xr3Pfk?rel=0&autoplay=1">
     </iframe>
   </div>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXwZ_xr3Pfk" autostart="true"  frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXwZ_xr3Pfk&autoplay=1" autostart="true"  frameborder="0" allowfullscreen></iframe>
 
 </html>
 <embed allowscriptaccess="never"  src="https://www.youtube.com/embed/EXwZ_xr3Pfk&rel=1&autoplay=1" type="application/x-shockwave-flash" width="180" height="180"></embed>
