@@ -76,6 +76,12 @@ left: 1px;
       <li>除了打程式</li>
    </ul>
   </body>
+  <p class="blue-text fan" span style="font-size:17px">
+    <span style="font-family:fantasy;">
+   <a href="https://www.linkedin.com/in/%E6%89%BF%E5%BA%AD-%E5%91%82-345b75139/">my Linkin</a>.<br><br>
+   <a href="https://github.com/woff52427">my Github</a>
+    </span>
+  </p>
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
