@@ -6,6 +6,12 @@
       color:#000000;
       text-align:left;
     }
+    #banner h1 a:hover{
+color: #fc3a63; /* 當滑鼠經過時，超連結文字顏色變成桃紅色 */
+position: relative; /* 當滑鼠經過超連結時，超連結往右下位移1像素 */
+top: 1px;
+left: 1px;
+}
     .fan{
       font-family:fantasy;
     }
