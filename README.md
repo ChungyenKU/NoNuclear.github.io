@@ -72,11 +72,11 @@
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
-      src="https://youtu.be/EXwZ_xr3Pfk">
+      src="https://www.youtube.com/embed/youtubeID?rel=0EXwZ_xr3Pfk">
     </iframe>
   </div>
 </div>
-<iframe width="560" height="315" src="https://youtu.be/EXwZ_xr3Pfk" autostart="true"  frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXwZ_xr3Pfk" autostart="true"  frameborder="0" allowfullscreen></iframe>
 
 </html>
 
