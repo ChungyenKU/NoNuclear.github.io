@@ -7,8 +7,8 @@
       text-align:left;
     }
     #banner h1 a:hover{
-color: #fc3a63; /* 當滑鼠經過時，超連結文字顏色變成桃紅色 */
-position: relative; /* 當滑鼠經過超連結時，超連結往右下位移1像素 */
+color: #fc3a63;
+position: relative; 
 top: 1px;
 left: 1px;
 }
@@ -76,12 +76,6 @@ left: 1px;
       <li>除了打程式</li>
    </ul>
   </body>
-  <p class="blue-text fan" span style="font-size:17px">
-    <span style="font-family:fantasy;">
-   <a href="https://www.linkedin.com/in/%E6%89%BF%E5%BA%AD-%E5%91%82-345b75139/">my Linkin</a>.<br><br>
-   <a href="https://github.com/NoNuclear">my Github</a>
-    </span>
-  </p>
   <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
