@@ -76,5 +76,5 @@
     </iframe>
   </div>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTQPCaUC8SQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTQPCaUC8SQ" autostart="true"  frameborder="0" allowfullscreen></iframe>
 </html>
