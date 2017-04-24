@@ -4,14 +4,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $("#link1");
-    $("#link2");
-    $("#link3");
-    $("#headpic");
-    $("#linkFJU").css("color", "red");
-    //$('html,body').css('cursor','crosshair');
-    //$('html,body').css('cursor','url(https://docs.google.com/uc?id=0BxXxdK7tViEWMzI4aU01YmNZLU0),auto');
-    $('html,body').css('cursor','url(https://docs.google.com/uc?id=0BxXxdK7tViEWNGc4RUw2RF9STUE),auto');
+
+	$(".btn-slide").click(function(){	  $("#panel").slideToggle("slow");	  $(this).toggleClass("active");	});
 
 });
 </script>
