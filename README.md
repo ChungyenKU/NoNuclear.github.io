@@ -1,8 +1,8 @@
 
 <html>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-<script type="text/javascript">
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js">
 $("#button1").button();
 $(function(){
     $("#gotop").click(function(){
