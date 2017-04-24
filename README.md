@@ -55,7 +55,9 @@ left: 1px;
     border-radius: 50%;
   }
   </style>
-  
+  <marquee>
+<font background-color=white size="6"><strong>Welcome</strong></font> 
+</marquee>
   <title>
   My webpage.
   </title>
