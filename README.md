@@ -63,7 +63,8 @@ left: 1px;
   <h1 class="blue-text text-center" span style="font-size:25px">    
     <a href="https://github.com/NoNuclear">顧中彥</a>
   </h1>
-  <button> OK </button> 
+  
+  
   <a href="#"><img class="smaller-image thick-green-border text-center text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
   <p class="blue-text fan" span style="font-size:22px">
@@ -72,7 +73,7 @@ left: 1px;
     </span>
     
   </p>
-  
+  <button class="title" style="font-size:30px"><a href="https://www.twitch.tv/s9722650">最U質的實況台 </a></button> 
   <body background="http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
