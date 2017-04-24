@@ -56,7 +56,7 @@ left: 1px;
   }
   </style>
   <marquee>
-<font background-color=white size="6"><strong>Welcome</strong></font> 
+<strong>Welcome</strong>
 </marquee>
   <title>
   My webpage.
