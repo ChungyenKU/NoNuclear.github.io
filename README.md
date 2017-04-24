@@ -3,11 +3,7 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <script>
-$(document).ready(function(){
-
-	$(".btn-slide").click(function(){	  $("#panel").slideToggle("slow");	  $(this).toggleClass("active");	});
-
-});
+$("#button1").button();
 </script>
 <style>
     body{
@@ -67,6 +63,7 @@ left: 1px;
   <h1 class="blue-text text-center" span style="font-size:25px">    
     <a href="https://github.com/NoNuclear">顧中彥</a>
   </h1>
+  <button> OK </button> 
   <a href="#"><img class="smaller-image thick-green-border text-center text-center" alt="Me?" src="https://avatars0.githubusercontent.com/u/26366534?v=3&s=96"></a>
 
   <p class="blue-text fan" span style="font-size:22px">
