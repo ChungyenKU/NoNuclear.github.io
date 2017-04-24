@@ -4,6 +4,20 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <script>
 $("#button1").button();
+$(function(){
+    $("#gotop").click(function(){
+        jQuery("html,body").animate({
+            scrollTop:0
+        },1000);
+    });
+    $(window).scroll(function() {
+        if ( $(this).scrollTop() > 300){
+            $('#gotop').fadeIn("fast");
+        } else {
+            $('#gotop').stop().fadeOut("fast");
+        }
+    });
+});
 </script>
 <style>
     body{
@@ -15,6 +29,16 @@ color: #fc3a63;
 position: relative; 
 top: 1px;
 left: 1px;
+}
+#gotop {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;    
+    padding: 10px 15px;    
+    font-size: 20px;
+    background: #777;
+    color: white;
+    cursor: pointer;
 }
     .fan{
       font-family:fantasy;
@@ -75,6 +99,7 @@ left: 1px;
   </p>
   <button class="title" style="font-size:30px"><a href="https://www.twitch.tv/s9722650">最U質的實況台 </a></button> 
   <body background="http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
+  <div id="gotop">˄</div>
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
