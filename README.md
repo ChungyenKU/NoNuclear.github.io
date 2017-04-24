@@ -35,7 +35,7 @@ left: 1px;
     right: 20px;
     bottom: 20px;    
     padding: 10px 15px;    
-    font-size: 20px;
+    font-size: 15px;
     background: #777;
     color: white;
     cursor: pointer;
@@ -99,7 +99,7 @@ left: 1px;
   </p>
   <button class="title" style="font-size:30px"><a href="https://www.twitch.tv/s9722650">最U質的實況台 </a></button> 
   <body background="http://blog.joaoko.net/wp-content/uploads/2009/07/Pattern.01.png">
-  <div id="gotop">˄</div>
+  <div id="gotop">⧸⎩⎠⎞͏(・∀・)⎛͏⎝⎭⧹</div>
     <p class="title" span style="font-size:20px"><l>興趣</l></p>
     <ul class ="ch" span style="font-size:20px">
       <li>LOL</li>
