@@ -2,7 +2,7 @@
 <html>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-<script>
+<script type="text/javascript">
 $("#button1").button();
 $(function(){
     $("#gotop").click(function(){
